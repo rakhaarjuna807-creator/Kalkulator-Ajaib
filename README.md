@@ -64,5 +64,5 @@ python kalkulator.py
 - [ ] Versi GUI (Tkinter)
 
 ## 👤 Author
-**Juna**  
+**Juna** 
 Pelajar
