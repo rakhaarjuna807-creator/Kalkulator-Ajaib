@@ -33,17 +33,17 @@ python --version
 
 2. Clone repository
 ```bash
-git clone https://github.com/username/kalkulator-ajaib.git
+git clone https://github.com/rakhaarjuna807-creator/Kalkulator-Ajaib.git
 ```
 
 3. Masuk ke folder project
 ```bash
-cd kalkulator-ajaib
+cd Kalkulator-Ajaib
 ```
 
 4. Jalankan program
 ```bash
-python kalkulator.py
+python kalkulatorajaib.py
 ```
 
 ## 📸 Contoh Tampilan
